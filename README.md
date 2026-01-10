@@ -1,8 +1,8 @@
-#TO-DO Task Manager (Python CLI)
+# TO-DO Task Manager (Python CLI)
 
 A python based console to manage daily tasks . 
 
-##Features 
+## Features 
 - add tasks
 - view all tasks with status 
 - mark tasks as completed 
@@ -10,7 +10,7 @@ A python based console to manage daily tasks .
 - save tasks to file(to_do.txt)
 - load task automatically on program start
 
-##concepts used 
+## Concepts used 
 - Python fundamentals
 - Lists and Dictionaries
 - Object-oriented Programming
@@ -19,6 +19,5 @@ A python based console to manage daily tasks .
 - Exception Handling
 - Menu-driven program 
 
-## Notes
-- Built with guidance from online learning resources and personal implementation.
+
 
