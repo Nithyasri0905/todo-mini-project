@@ -4,10 +4,20 @@ A python based console to manage daily tasks .
 
 ##Features 
 - add tasks
-- view tasks
-- update status as completed using numbering
-- delete a task using numbering 
-- interactive menu driven interface
+- view all tasks with status 
+- mark tasks as completed 
+- delete tasks
+- save tasks to file(to_do.txt)
+- load task automatically on program start
+
+##concepts used 
+- Python fundamentals
+- Lists and Dictionaries
+- Object-oriented Programming
+- Constructors (__init__)
+- File handling
+- Exception Handling
+- Menu-driven program 
 
 ## Notes
 - Built with guidance from online learning resources and personal implementation.
